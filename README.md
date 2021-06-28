@@ -1,5 +1,5 @@
 # DapperTest
-Projeto com Dapper(Teste)
+Projeto com Dapper(Exemplo)
 
 Projeto destinado a um teste com banco de dados na Azure e utilizanod Dapper.
 
